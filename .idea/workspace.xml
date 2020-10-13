@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76dd1674-23ec-4732-82c4-6c6453a2a7bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSOrdR7fSPesaXUczJYflcSJMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mgy-requests" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\PycharmProjects\mgy\pages\page" />
+      <recent name="D:\work\PycharmProjects\mgy\test_data" />
+      <recent name="D:\work\PycharmProjects\mgy\test_case" />
+      <recent name="D:\work\PycharmProjects\mgy\pages\pages" />
+      <recent name="D:\work\PycharmProjects\mgy\pages\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.login">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/page/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_creat.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mgy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_creat.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_edit_pro.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mgy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_edit_pro.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mgy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python tests.Unittests in test_creat.py" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.vs" />
+        <item itemvalue="Python tests.Unittests in test_edit_pro.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dd1674-23ec-4732-82c4-6c6453a2a7bc" name="Default Changelist" comment="" />
+      <created>1579139728507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579139728507</updated>
+      <workItem from="1579139742471" duration="77000" />
+      <workItem from="1579139851993" duration="21697000" />
+      <workItem from="1579181553168" duration="9672000" />
+      <workItem from="1579223847933" duration="2598000" />
+      <workItem from="1579226738060" duration="10827000" />
+      <workItem from="1579250707391" duration="4662000" />
+      <workItem from="1579310779161" duration="22114000" />
+      <workItem from="1579485200842" duration="13130000" />
+      <workItem from="1579608567818" duration="4269000" />
+      <workItem from="1580092960189" duration="18800000" />
+      <workItem from="1580209968427" duration="660000" />
+      <workItem from="1580277088127" duration="16000" />
+      <workItem from="1580350182553" duration="15131000" />
+      <workItem from="1580693559794" duration="38482000" />
+      <workItem from="1580968441322" duration="3083000" />
+      <workItem from="1581064876091" duration="8753000" />
+      <workItem from="1581298547831" duration="15692000" />
+      <workItem from="1581327691286" duration="2416000" />
+      <workItem from="1581393854727" duration="17319000" />
+      <workItem from="1581475304611" duration="23583000" />
+      <workItem from="1581557376842" duration="14744000" />
+      <workItem from="1581683161640" duration="26286000" />
+      <workItem from="1582188740993" duration="2769000" />
+      <workItem from="1582250760004" duration="2815000" />
+      <workItem from="1582349103862" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="187" key="FileChooserDialogImpl" timestamp="1579252762749">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="473" y="176" key="FileChooserDialogImpl/0.0.1381.833@0.0.1381.833" timestamp="1579154953357" />
+    <state x="501" y="187" key="FileChooserDialogImpl/0.0.1463.884@0.0.1463.884" timestamp="1579252762749" />
+    <state width="1420" height="211" key="GridCell.Tab.0.bottom" timestamp="1582298184679">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="268" key="GridCell.Tab.0.bottom/0.0.1381.833@0.0.1381.833" timestamp="1579247079734" />
+    <state width="1420" height="211" key="GridCell.Tab.0.bottom/0.0.1463.884@0.0.1463.884" timestamp="1582298184679" />
+    <state width="1420" height="211" key="GridCell.Tab.0.center" timestamp="1582298184679">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="268" key="GridCell.Tab.0.center/0.0.1381.833@0.0.1381.833" timestamp="1579247079734" />
+    <state width="1420" height="211" key="GridCell.Tab.0.center/0.0.1463.884@0.0.1463.884" timestamp="1582298184679" />
+    <state width="1420" height="211" key="GridCell.Tab.0.left" timestamp="1582298184679">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="268" key="GridCell.Tab.0.left/0.0.1381.833@0.0.1381.833" timestamp="1579247079734" />
+    <state width="1420" height="211" key="GridCell.Tab.0.left/0.0.1463.884@0.0.1463.884" timestamp="1582298184679" />
+    <state width="1420" height="211" key="GridCell.Tab.0.right" timestamp="1582298184679">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="268" key="GridCell.Tab.0.right/0.0.1381.833@0.0.1381.833" timestamp="1579247079734" />
+    <state width="1420" height="211" key="GridCell.Tab.0.right/0.0.1463.884@0.0.1463.884" timestamp="1582298184679" />
+    <state width="1420" height="290" key="GridCell.Tab.1.bottom" timestamp="1581531345617">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="265" key="GridCell.Tab.1.bottom/0.0.1381.833@0.0.1381.833" timestamp="1579226697444" />
+    <state width="1420" height="290" key="GridCell.Tab.1.bottom/0.0.1463.884@0.0.1463.884" timestamp="1581531345617" />
+    <state width="1420" height="290" key="GridCell.Tab.1.center" timestamp="1581531345617">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="265" key="GridCell.Tab.1.center/0.0.1381.833@0.0.1381.833" timestamp="1579226697444" />
+    <state width="1420" height="290" key="GridCell.Tab.1.center/0.0.1463.884@0.0.1463.884" timestamp="1581531345617" />
+    <state width="1420" height="290" key="GridCell.Tab.1.left" timestamp="1581531345617">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="265" key="GridCell.Tab.1.left/0.0.1381.833@0.0.1381.833" timestamp="1579226697444" />
+    <state width="1420" height="290" key="GridCell.Tab.1.left/0.0.1463.884@0.0.1463.884" timestamp="1581531345617" />
+    <state width="1420" height="290" key="GridCell.Tab.1.right" timestamp="1581531345617">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1339" height="265" key="GridCell.Tab.1.right/0.0.1381.833@0.0.1381.833" timestamp="1579226697444" />
+    <state width="1420" height="290" key="GridCell.Tab.1.right/0.0.1463.884@0.0.1463.884" timestamp="1581531345617" />
+    <state x="117" y="169" width="996" height="715" key="SettingsEditor" timestamp="1582189555871">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="196" y="63" key="SettingsEditor/0.0.1381.833@0.0.1381.833" timestamp="1579144214638" />
+    <state x="117" y="169" width="996" height="715" key="SettingsEditor/0.0.1463.884@0.0.1463.884" timestamp="1582189555871" />
+    <state x="411" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582349104597">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="388" y="246" key="com.intellij.ide.util.TipDialog/0.0.1381.833@0.0.1381.833" timestamp="1579226737935" />
+    <state x="411" y="261" key="com.intellij.ide.util.TipDialog/0.0.1463.884@0.0.1463.884" timestamp="1582349104597" />
+    <state x="288" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580133860497">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="288" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1463.884@0.0.1463.884" timestamp="1580133860497" />
+    <state x="394" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1581315800189">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="394" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1463.884@0.0.1463.884" timestamp="1581315800189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/page/second_approval.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mgy$project_sub.coverage" NAME="project_sub Coverage Results" MODIFIED="1581316906706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_creat_project_TestCreat_test_creat_success.coverage" NAME="Unittests for creat_project.TestCreat.test_creat_success Coverage Results" MODIFIED="1579186458279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_creat_project_TestCreat.coverage" NAME="Unittests for creat_project.TestCreat Coverage Results" MODIFIED="1579186508771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/mgy$first_approval.coverage" NAME="first_approval Coverage Results" MODIFIED="1581485570177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_test_login_TestLogin_test_login_error.coverage" NAME="Unittests for test_login.TestLogin.test_login_error Coverage Results" MODIFIED="1579152941600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$read_conf.coverage" NAME="read_conf Coverage Results" MODIFIED="1581395944542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/common" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_test_creat_TestCreat.coverage" NAME="Unittests for test_creat.TestCreat Coverage Results" MODIFIED="1581529482749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$login.coverage" NAME="login Coverage Results" MODIFIED="1582268157901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_in_test_creat_py.coverage" NAME="Unittests in test_creat.py Coverage Results" MODIFIED="1582190911377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$push_xietong.coverage" NAME="push_xietong Coverage Results" MODIFIED="1581412622045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$edit_project__1_.coverage" NAME="edit_project (1) Coverage Results" MODIFIED="1580782411816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$company_approval.coverage" NAME="company_approval Coverage Results" MODIFIED="1581326898914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$mode_management.coverage" NAME="mode_management Coverage Results" MODIFIED="1581397974993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_test_login_TestLogin_test_login_1_error.coverage" NAME="Unittests for test_login.TestLogin.test_login_1_error Coverage Results" MODIFIED="1579165169167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1579185279346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$second_approval.coverage" NAME="second_approval Coverage Results" MODIFIED="1581329399632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Test_liucheng.coverage" NAME="Test_liucheng Coverage Results" MODIFIED="1581410342608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_in_creat_project_py.coverage" NAME="Unittests in creat_project.py Coverage Results" MODIFIED="1579186540619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_for_test_creat_TestCreat_test_creat_success.coverage" NAME="Unittests for test_creat.TestCreat.test_creat_success Coverage Results" MODIFIED="1581557958100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$vs.coverage" NAME="vs Coverage Results" MODIFIED="1581933594546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mgy$push_file.coverage" NAME="push_file Coverage Results" MODIFIED="1581412405136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$project_approval.coverage" NAME="project_approval Coverage Results" MODIFIED="1581479700584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$edit_company.coverage" NAME="edit_company Coverage Results" MODIFIED="1581563888552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1582036565479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$edit_project.coverage" NAME="edit_project Coverage Results" MODIFIED="1581599147403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_in_test_edit_pro_py.coverage" NAME="Unittests in test_edit_pro.py Coverage Results" MODIFIED="1581599331136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/mgy$creat_project.coverage" NAME="creat_project Coverage Results" MODIFIED="1581527549353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/page" />
+    <SUITE FILE_PATH="coverage/mgy$errorhandler.coverage" NAME="errorhandler Coverage Results" MODIFIED="1580824164557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote" />
+    <SUITE FILE_PATH="coverage/mgy$Unittests_in_test_del_py.coverage" NAME="Unittests in test_del.py Coverage Results" MODIFIED="1579339098332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+  </component>
+</project>
